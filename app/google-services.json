@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387983386385",
+    "firebase_url": "https://scientscratch.firebaseio.com",
+    "project_id": "scientscratch",
+    "storage_bucket": "scientscratch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387983386385:android:ff15cece334a5b1dc10eb0",
+        "android_client_info": {
+          "package_name": "com.tutorial.scientscratch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387983386385-k2v7k7jo4t2otsd9f93av57hg8ua4svo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.scientscratch",
+            "certificate_hash": "3c66c0c3de4e04ddb5abd9b35d2642d4bc05fb5c"
+          }
+        },
+        {
+          "client_id": "387983386385-3gubfi7olh31ce483m02bfecdtr19m22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFZKp_QIViy0k8-vQuvvhzIR_mu60SHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387983386385-3gubfi7olh31ce483m02bfecdtr19m22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
